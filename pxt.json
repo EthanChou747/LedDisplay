@@ -10,6 +10,6 @@
         "microbit"
     ],
     "preferredEditor": "tsprj",
-    "color": "#ADD8E6",  // 淡藍色
-    "icon": ""  // 計算機圖示
+    "color": "#ADD8E6",  
+    "icon": "\uf0ad"  
 }
